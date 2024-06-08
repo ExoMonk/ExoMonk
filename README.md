@@ -2,7 +2,7 @@
 - 📫 How to reach me : https://twitter.com/0xExomonk or mail @ 0xexomonk@gmail.com
 - 3+years Machine Learning & Data Engineering (Python, Scala, Spark, ETL pipelines)
 - 3+years DevOpsxMLOps & Cloud Architect
-- 1+year  Blockchain architect & DeFi strategies implementation
+- 2+year  Blockchain architect & DeFi strategies implementation
 - DeFi Narrative enjoyer
 - StarkNet Contributor : 
 
