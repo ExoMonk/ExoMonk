@@ -12,3 +12,7 @@ I analyse, design, build and maintain data and cloud infrastructure for clients,
 I own and deliver end-to-end projects across staking infrastructure, protocol innovation, and data systems—working at the intersection of cutting-edge blockchain protocols and real-world institutional needs.
 
 I ran workshops and client communications around new features, translating technical capabilities into clear guidance for integrators.
+
+Contributor:
+- https://github.com/joshstevens19/rindexer
+- https://github.com/txtx/surfpool
